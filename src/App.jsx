@@ -27,11 +27,11 @@ const siteProps = {
   name: "MAH E UROOJ",
   title: "JUNIOR ELEMENTARY GOVERNMENT SCHOOL TEACHER",
   email: "MAHE.UROOJ@studentambassadors.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
+  gitHub: "https://github.com/MahEUrooj",
+  instagram: "https://www.instagram.com/majesticurooj38",
   linkedIn: "https://www.linkedin.com/in/maheurooj-15a4081ab/",
   medium: "ENGLISH",
-  twitter: "",
+  twitter: "https://twitter.com/urooj_mah",
   youTube: "https://www.youtube.com/@imaginativegenius",
 };
 
