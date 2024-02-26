@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://MahEUrooj.github.io/MY_FIRST_APP'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
@@ -15,10 +15,11 @@
     "type": "git",
     "url": "git+https://github.com/MahEUrooj/MY_FIRST_APP"
   },
-  "author": "MahEUrooj",
+  "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MahEUrooj/MY_FIRST_APP"
+  "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+  },
   },
   "dependencies": {
     "react": "^18.2.0",
