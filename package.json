@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://{MahEUrooj}.github.io/{MY_FIRST_APP},#readme",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/MahEUrooj/MY_FIRST_APP"
   },
-  "author": "Microsoft",
+  "author": "MahEUrooj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/MahEUrooj/MY_FIRST_APP"
   },
   "dependencies": {
     "react": "^18.2.0",
